@@ -7,7 +7,6 @@
   - jQuery
   - JavaScript
   - Python
-  - Java
   
 - 📝 자격증
   - 정보처리기사
